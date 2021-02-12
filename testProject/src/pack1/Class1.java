@@ -1,9 +1,19 @@
 package pack1;
 
+import java.util.Scanner;
+
 public class Class1 {
 	
 	private int fnum;
 	private int snum;
+	
+	
+	public void sum2() {
+		System.out.println("enter two nos");
+		Scanner scan = new Scanner(System.in);
+		
+		
+	}
 		
 	public void setfnum(int fnum ) 
 	{
